@@ -1,0 +1,10 @@
+{
+  "name": "rnadom-song-thing",
+  "version": "1.0.0",
+  "description": "random songs",
+  "main": "api/index.js",
+  "dependencies": {},
+  "engines": {
+    "node": "v20.17.0"
+  }
+}
